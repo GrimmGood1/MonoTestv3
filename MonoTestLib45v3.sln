@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoTestLib45v3", "MonoTestLib45v3\MonoTestLib45v3.csproj", "{E04D2268-CADA-4A75-A4A0-0A767E41A1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTests", "XUnitTests\XUnitTests.csproj", "{169B8772-8EA3-4ACA-94A7-05F4EA379188}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E04D2268-CADA-4A75-A4A0-0A767E41A1F2} = {E04D2268-CADA-4A75-A4A0-0A767E41A1F2}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04D2268-CADA-4A75-A4A0-0A767E41A1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04D2268-CADA-4A75-A4A0-0A767E41A1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04D2268-CADA-4A75-A4A0-0A767E41A1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04D2268-CADA-4A75-A4A0-0A767E41A1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169B8772-8EA3-4ACA-94A7-05F4EA379188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169B8772-8EA3-4ACA-94A7-05F4EA379188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169B8772-8EA3-4ACA-94A7-05F4EA379188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169B8772-8EA3-4ACA-94A7-05F4EA379188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D93C6FD-C130-4E56-A20D-D9CD0DE433FD}
+	EndGlobalSection
+EndGlobal
