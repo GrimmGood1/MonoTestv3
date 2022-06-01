@@ -1,0 +1,10 @@
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\obj\Debug\ConsoleUIMono.csprojAssemblyReference.cache
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\obj\Debug\ConsoleUIMono.csproj.CoreCompileInputs.cache
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\bin\Debug\ConsoleUIMono.exe.config
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\bin\Debug\ConsoleUIMono.exe
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\bin\Debug\ConsoleUIMono.pdb
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\bin\Debug\MonoTestLib45v3.dll
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\bin\Debug\MonoTestLib45v3.pdb
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\obj\Debug\ConsoleUIMono.csproj.CopyComplete
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\obj\Debug\ConsoleUIMono.exe
+C:\Users\sirba\source\repos\MonoTestLib45v3\ConsoleUIMono\obj\Debug\ConsoleUIMono.pdb
